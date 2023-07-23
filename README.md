@@ -12,13 +12,15 @@ Word cloud displays series of words.The word which occurs most frequent appears 
 
 # Extracting Features from Cleaned Tweets
 1.Bag of Words
+
 2.TF-IDF
+
 3.Word Embeddings(word2vector)
 
 # Evaluation Metric:
 F1_Score is the metric used as it is weighthed average of precision and recall.It is suitable for uneven class distribution problems.
 
 # Result:
-Using Support Vector machine by using word-to-vector method we obtained highest f1_Score.
+Using Support Vector machine by using word-to-vector feature extraction method I obtained highest f1_Score.
 
 
